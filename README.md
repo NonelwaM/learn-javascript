@@ -1,1 +1,2 @@
-# learn-javascript
+# Javascript 
+### Making website more functional
